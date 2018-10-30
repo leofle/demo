@@ -1,14 +1,194 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"chats": [{
+		"id": 1,
+		"fullName":"Debby Jones",
+		"location":"Las Vegas, Nevada",
+		"online":true,
+    "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_2.jpeg",
+		"messages":[{
+			"messageId": 11,
+			"type":"response",
+			"date": "10:27:29AM 10/10/2018",
+			"message": "Tomorrow, as the recipe, or the mass mourning, clinical members. Sometimes they malesuada hunger and at the first taste."
+		},
+		{
+			"messageId": 12,
+			"type":"response",
+			"date": "10:27:15AM 10/10/2018",
+			"message": "XOXO"
+		},
+		{
+			"messageId": 13,
+			"type":"user",
+			"date": "10:29:01AM 10/10/2018",
+			"message": "A soft, but not only, and beating fauciubs Integer stunning hairstyle. Lorem and ecological warm soft drink and drink sapien pregnant."
+		},
+		{
+			"messageId": 14,
+			"type":"response",
+			"date": "10:30:01AM 10/10/2018",
+			"message": "The latest iPod touch, as the biggest skirt. CNN until it becomes propaganda, but Performance of chat leakage."
+		
+		}]
+	},
+  {
+		"id": 2,
+		"fullName":"Sacha Griffin",
+		"location":"New York, New York",
+		"online":true,
+    "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_1.jpg",
+		"messages":[{
+			"messageId": 21,
+			"type":"response",
+			"date": "10:27:29AM 10/10/2018",
+			"message": "Tomorrow, as the recipe, or the mass mourning, clinical members. Sometimes they malesuada hunger and at the first taste."
+		},
+		{
+			"messageId": 22,
+			"type":"response",
+			"date": "10:27:15AM 10/10/2018",
+			"message": "XOXO"
+		},
+		{
+			"messageId": 23,
+			"type":"user",
+			"date": "10:29:01AM 10/10/2018",
+			"message": "A soft, but not only, and beating fauciubs Integer stunning hairstyle. Lorem and ecological warm soft drink and drink sapien pregnant."
+		},
+		{
+			"messageId": 24,
+			"type":"response",
+			"date": "10:30:01AM 10/10/2018",
+			"message": "The latest iPod touch, as the biggest skirt. CNN until it becomes propaganda, but Performance of chat leakage."
+		
+		}]
+	},
+  {
+		"id": 3,
+		"fullName":"Sarah White",
+		"location":"Cleveland, Ohio",
+		"online":true,
+    "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_3.jpg",
+		"messages":[{
+			"messageId": 31,
+			"type":"response",
+			"date": "10:27:29AM 10/10/2018",
+			"message": "Tomorrow, as the recipe, or the mass mourning, clinical members. Sometimes they malesuada hunger and at the first taste."
+		},
+		{
+			"messageId": 32,
+			"type":"response",
+			"date": "10:27:15AM 10/10/2018",
+			"message": "XOXO"
+		},
+		{
+			"messageId": 33,
+			"type":"user",
+			"date": "10:29:01AM 10/10/2018",
+			"message": "A soft, but not only, and beating fauciubs Integer stunning hairstyle. Lorem and ecological warm soft drink and drink sapien pregnant."
+		},
+		{
+			"messageId": 34,
+			"type":"response",
+			"date": "10:30:01AM 10/10/2018",
+			"message": "The latest iPod touch, as the biggest skirt. CNN until it becomes propaganda, but Performance of chat leakage."
+		
+		}]
+	},
+  {
+		"id": 4,
+		"fullName":"Johhny McGrump",
+		"location":"Las Vegas, Nevada",
+		"online":false,
+    "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_4.jpg",
+		"messages":[{
+			"messageId": 41,
+			"type":"response",
+			"date": "10:27:29AM 10/10/2018",
+			"message": "Tomorrow, as the recipe, or the mass mourning, clinical members. Sometimes they malesuada hunger and at the first taste."
+		},
+		{
+			"messageId": 42,
+			"type":"response",
+			"date": "10:27:15AM 10/10/2018",
+			"message": "XOXO"
+		},
+		{
+			"messageId": 43,
+			"type":"user",
+			"date": "10:29:01AM 10/10/2018",
+			"message": "A soft, but not only, and beating fauciubs Integer stunning hairstyle. Lorem and ecological warm soft drink and drink sapien pregnant."
+		},
+		{
+			"messageId": 44,
+			"type":"response",
+			"date": "10:30:01AM 10/10/2018",
+			"message": "The latest iPod touch, as the biggest skirt. CNN until it becomes propaganda, but Performance of chat leakage."
+		
+		}]
+	},
+  {
+		"id": 5,
+		"fullName":"Tommy Tom",
+		"location":"Las Vegas, Nevada",
+		"online":false,
+    "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_5.jpg",
+		"messages":[{
+			"messageId": 51,
+			"type":"response",
+			"date": "10:27:29AM 10/10/2018",
+			"message": "Tomorrow, as the recipe, or the mass mourning, clinical members. Sometimes they malesuada hunger and at the first taste."
+		},
+		{
+			"messageId": 52,
+			"type":"response",
+			"date": "10:27:15AM 10/10/2018",
+			"message": "XOXO"
+		},
+		{
+			"messageId": 53,
+			"type":"user",
+			"date": "10:29:01AM 10/10/2018",
+			"message": "A soft, but not only, and beating fauciubs Integer stunning hairstyle. Lorem and ecological warm soft drink and drink sapien pregnant."
+		},
+		{
+			"messageId": 54,
+			"type":"response",
+			"date": "10:30:01AM 10/10/2018",
+			"message": "The latest iPod touch, as the biggest skirt. CNN until it becomes propaganda, but Performance of chat leakage."
+		
+		}]
+	},
+  {
+		"id": 6,
+		"fullName":"James King",
+		"location":"Las Vegas, Nevada",
+		"online":false,
+    "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_6.jpg",
+		"messages":[{
+			"messageId": 61,
+			"type":"response",
+			"date": "10:27:29AM 10/10/2018",
+			"message": "Tomorrow, as the recipe, or the mass mourning, clinical members. Sometimes they malesuada hunger and at the first taste."
+		},
+		{
+			"messageId": 62,
+			"type":"response",
+			"date": "10:27:15AM 10/10/2018",
+			"message": "XOXO"
+		},
+		{
+			"messageId": 63,
+			"type":"user",
+			"date": "10:29:01AM 10/10/2018",
+			"message": "A soft, but not only, and beating fauciubs Integer stunning hairstyle. Lorem and ecological warm soft drink and drink sapien pregnant."
+		},
+		{
+			"messageId": 64,
+			"type":"response",
+			"date": "10:30:01AM 10/10/2018",
+			"message": "The latest iPod touch, as the biggest skirt. CNN until it becomes propaganda, but Performance of chat leakage."
+		
+		}]
+	}]
 }
