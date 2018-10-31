@@ -3,6 +3,7 @@
 		"id": 1,
 		"fullName":"Debby Jones",
 		"location":"Las Vegas, Nevada",
+		"status":"New day, Fresh start",
 		"online":true,
     "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_2.jpeg",
 		"messages":[{
@@ -35,6 +36,7 @@
 		"id": 2,
 		"fullName":"Sacha Griffin",
 		"location":"New York, New York",
+	  	"status":"Super deep status message",
 		"online":true,
     "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_1.jpg",
 		"messages":[{
@@ -67,6 +69,7 @@
 		"id": 3,
 		"fullName":"Sarah White",
 		"location":"Cleveland, Ohio",
+	  	"status":"Life becomes more peaceful",
 		"online":true,
     "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_3.jpg",
 		"messages":[{
@@ -99,6 +102,7 @@
 		"id": 4,
 		"fullName":"Johhny McGrump",
 		"location":"Las Vegas, Nevada",
+	  	"status":"Please do not disturb",
 		"online":false,
     "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_4.jpg",
 		"messages":[{
@@ -131,6 +135,7 @@
 		"id": 5,
 		"fullName":"Tommy Tom",
 		"location":"Las Vegas, Nevada",
+	  	"status":"On vacation for two weeks",
 		"online":false,
     "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_5.jpg",
 		"messages":[{
@@ -163,6 +168,7 @@
 		"id": 6,
 		"fullName":"James King",
 		"location":"Las Vegas, Nevada",
+	  	"status":"Carpe diem baby!!",
 		"online":false,
     "imgUrl":"http://vzkiss.com/demo/chatbox/images/avatar/avatar_6.jpg",
 		"messages":[{
